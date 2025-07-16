@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 
 export default function Dashboard() {
   const handleGiveTest = () => {
-    window.open("https://bgrintra/survey_hr/Survey_user.aspx?id=102", "_blank")
+    window.open("https://bgrintra/survey_hr/Survey_user.aspx?id=1199", "_blank")
   }
 
   const handleShowResult = () => {
